@@ -13,3 +13,4 @@ def getDigit(number):
                 number[i] = first_digit + second_digit
 
     return number[::2] 
+print()
